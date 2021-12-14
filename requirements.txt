@@ -1,0 +1,9 @@
+config
+SQLAlchemy~=1.4.28
+# for postgres db boosting
+psycopg2
+# for create/drop/check databases and others
+sqlalchemy-utils
+mysql-connector-python
+PyMySQL~=1.0.2
+mysqlclient~=2.1.0
